@@ -30,5 +30,5 @@ print('Sua media é:{}' .format(n) )'''
 '''metro = float(input('Digite sua medida em metros:'))
 n = (metro) * 100
 print('Sua medida em Cm é: {}'.format(n))'''
-#teste
+#testep
 
