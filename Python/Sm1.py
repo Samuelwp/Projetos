@@ -26,7 +26,7 @@ n = (nota1 + nota2 + nota3 + nota4) / 4
 
 print('Sua media é:{}' .format(n) )'''
 
-#Conversao de metro pra cm
+#Conversao de metro pra cmo
 '''metro = float(input('Digite sua medida em metros:'))
 n = (metro) * 100
 print('Sua medida em Cm é: {}'.format(n))'''
