@@ -80,3 +80,24 @@ else:
     maior = c
 print("o maior numero é {}".format(maior))
 print("Os números em ordem crescente são:", *sorted([a, b, c]))'''
+
+#help
+
+''' salario = float(input("Digite o salario: "))
+
+if salario <= 2000:
+    reajus = salario * (20/100)
+    print("salario aumetado em 20%")
+elif salario >= 2000 and salario <=3500:
+    reajus = salario * (15/100)
+    print("salario aumetado em 15%")
+elif salario >= 3500 and salario <=5000:
+    reajus = salario * (10/100)
+    print("salario aumetado em 10%")
+elif salario >= 5000:
+    reajus = salario * (5/100)
+    print("salario aumetado em 5%")
+
+salarionovo = reajus + salario
+
+print("O seu salario atual é de R${}, com aumento de R${}, com isso seu salario atual é R${}".format(salario,reajus,salarionovo)) '''
